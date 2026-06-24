@@ -1,5 +1,3 @@
-use ipl_2025_2026_db;
-
 Q1./* Top 10 Run Scorers*/
 SELECT Name,
        Runs
